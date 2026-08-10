@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'Palatino';
+	src: url('palr45w.ttf') format('truetype');	
+}
+
+body.title {
+	background-color:#000099;
+	color:#FFCC00;
+	text-decoration:none;
+	font-family:'Palatino';
+	
+}
+body.main {
+	background-color:#FFFFFF;
+	color:#000000;
+	text-decoration:none;
+	font-family:'Palatino';
+	
+}
+
+
+/*
+}
+
+a:link {
+	color:#0000AA;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#AA00AA;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#000000 !important;
+	text-decoration:none !important;
+	background-color:#AAAAAA !important;
+}
+
+a:active{
+	color:#0000AA !important;
+	text-decoration:none !important;
+	background-color:#AAAAAA !important;
+}
+
+*/
