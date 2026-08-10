@@ -3,14 +3,14 @@
 	src: url('palr45w.ttf') format('truetype');	
 }
 
-body.title {
+.title {
 	background-color:#000099;
 	color:#FFCC00;
 	text-decoration:none;
 	font-family:'Palatino';
 	
 }
-body.main {
+.main {
 	background-color:#FFFFFF;
 	color:#000000;
 	text-decoration:none;
