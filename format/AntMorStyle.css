@@ -20,29 +20,27 @@
 }
 
 
-/*
+
 }
 
-a:link {
-	color:#0000AA;
+a:link.title {
+	color:#FFCC00;
 	text-decoration:none;
 }
 
-a:visited {
-	color:#AA00AA;
+a:visited.title {
+	color:##FFCC00;
 	text-decoration:none;
 }
 
-a:hover{
-	color:#000000 !important;
-	text-decoration:none !important;
-	background-color:#AAAAAA !important;
+a:hover.title {
+	color:#FFFF00;
+	text-decoration:none;
 }
 
 a:active{
-	color:#0000AA !important;
-	text-decoration:none !important;
-	background-color:#AAAAAA !important;
+	color:#FFFFFF;
+	text-decoration:none;
 }
 
 */
