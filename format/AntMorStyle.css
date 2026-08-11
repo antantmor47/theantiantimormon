@@ -23,17 +23,17 @@
 
 }
 
-a:link.title {
+a:link {
 	color:#FFCC00;
 	text-decoration:none;
 }
 
-a:visited.title {
+a:visited {
 	color:##FFCC00;
 	text-decoration:none;
 }
 
-a:hover.title {
+a:hover {
 	color:#FFFF00;
 	text-decoration:none;
 }
